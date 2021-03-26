@@ -1,1 +1,1 @@
-test
+[suite](maths/suites.md)
