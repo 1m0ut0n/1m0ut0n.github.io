@@ -1,1 +1,1 @@
-[suite](maths/suites.md)
+[suite](maths/suite.md)
