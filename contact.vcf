@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Gaspard Beunier
+N;CHARSET=UTF-8:Beunier;Gaspard;;;
+NICKNAME;CHARSET=UTF-8:Gaspard
+GENDER:M
+ANNIVERSARY:20031226
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:paparbeunier@gmail.com
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:gaspard.beunier@etu.imt-nord-europe.fr
+TEL;TYPE=CELL:+33 6 16 53 46 29
+ADR;CHARSET=UTF-8;TYPE=HOME:;;45 rue du Croquet;Avelin;;59710;France
+ADR;CHARSET=UTF-8;TYPE=WORK:;;941 rue Charles Bourseul;Douai;;59508;France
+ROLE;CHARSET=UTF-8:Étudiant
+ORG;CHARSET=UTF-8:IMT Nord Europe
+URL;CHARSET=UTF-8:https://1m0ut0n.github.io/
+URL;type=WORK;CHARSET=UTF-8:https://imt-nord-europe.fr/
+X-SOCIALPROFILE;TYPE=twitter:https://twitter.com/1M0ut0n
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/gaspard-beunier/
+X-SOCIALPROFILE;TYPE=instagram:https://www.instagram.com/1_m0ut0n
+REV:2023-10-04T14:33:52.958Z
+END:VCARD
